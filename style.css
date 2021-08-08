@@ -1,0 +1,27 @@
+
+.timing{
+    
+    background: rgba( 255, 255, 255, 0.55 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 20.0px );
+-webkit-backdrop-filter: blur( 20.0px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+padding:3%;
+}
+.number{
+    color: whitesmoke;
+    background-color: orange;
+    padding:5px;
+    margin:3% 2% 0 0;
+}
+#ingerdientsList input{
+    width: 30px;
+}
+h1{
+    font-family:serif;
+    font-weight: 600;
+}
+#image {
+padding: 4% 0;
+}
